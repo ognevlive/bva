@@ -1,1 +1,1 @@
-"# быстрые вычислительные алгоритмы " 
+"fast computational algorithms" 
